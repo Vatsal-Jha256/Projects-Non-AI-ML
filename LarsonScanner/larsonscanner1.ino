@@ -1,7 +1,3 @@
-# larsonscanner
-
-https://www.tinkercad.com/things/cDpLpp1pxcF
-
 int tempo =250;
 
 
